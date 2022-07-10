@@ -326,8 +326,23 @@ opacity: 0;
 
 /* main */
 
+
+  
+  /* work */
+
+
 .works{
-  display: block;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.work{
+  width: 100%;
+}
+
+.work img{
+  width: 100%;
 }
 
 
