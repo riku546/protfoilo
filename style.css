@@ -273,7 +273,7 @@ body.click{
 
 .header-list{
   position: absolute;
-  right: -1000px;
+  left: -1000px;
 
 
 }
