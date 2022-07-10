@@ -142,6 +142,16 @@ width: 95%;
 height: 300px;
 }
 
+
+.work1{
+  padding-right: 10px;
+}
+
+.work2{
+  padding-left: 10px;
+}
+
+
 /* about */
 #about{
   margin-bottom: 300px;
@@ -343,6 +353,15 @@ opacity: 0;
 
 .work img{
   width: 100%;
+}
+  
+  
+  .work1{
+  padding: 0;
+}
+
+.work2{
+  padding: 0;
 }
 
 
