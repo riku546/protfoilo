@@ -217,7 +217,7 @@ opacity: 0.7;
 
 /* fadeIn */
 
-/* .fadeIn{
+.fadeIn{
   opacity: 0;
   transition: all .5s ease;
   transform: translate(0, 100px);
@@ -226,7 +226,7 @@ opacity: 0.7;
 .fadeIn.show {
   opacity: 1;
   transform: none;
-} */
+}
 
 
 
